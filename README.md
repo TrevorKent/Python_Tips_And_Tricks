@@ -1,2 +1,4 @@
-# Python_Tips_And_Tricks
-10 Python Tips and Tricks For Writting Better Code
+# Python Resources For Writting Better Code
+
+Stuff I'm learning or have learned that I thought I would share.
+
