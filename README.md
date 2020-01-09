@@ -8,3 +8,4 @@ Stuff I'm learning or have learned that I thought I would share.
 4. Tuples
 5. Lambda Expressions
 6. Map, Filter, Reduce
+7. Sorting Tips
