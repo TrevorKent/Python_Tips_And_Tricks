@@ -9,6 +9,6 @@ Stuff I'm learning or have learned that I thought I would share.
 5. Lambda Expressions
 6. Map, Filter, Reduce
 7. Sorting Tips
-8. Using Lists []
+8. List Comprehension
 9. Working with Sets {}
 10. Dictionaries
