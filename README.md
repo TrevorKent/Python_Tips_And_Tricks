@@ -12,3 +12,5 @@ Stuff I'm learning or have learned that I thought I would share.
 8. List Comprehension
 9. Working with Sets {}
 10. Dictionaries
+11. If, Then, Else
+12. Generators
