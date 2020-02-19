@@ -16,3 +16,4 @@ Stuff I'm learning or have learned that I thought I would share.
 12. Generators
 13. Importing Excel Data
 14. Looping Loops
+15. Variable Scope
